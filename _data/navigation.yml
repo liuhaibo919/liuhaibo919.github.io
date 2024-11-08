@@ -1,19 +1,19 @@
 main:
   - title: "Bio"
-    url: ./about-me
+    url: ./#about-me
     left: True
     
   - title: "Research"
-    url: ./research
+    url: ./#research
   
   - title: "News"
-    url: ./news
+    url: ./#news
 
   - title: "Publications"
-    url: ./publications
+    url: ./#publications
 
   - title: "Contact"
-    url: ./contact 
+    url: ./#contact 
 
 
 

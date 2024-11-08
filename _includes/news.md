@@ -1,6 +1,4 @@
-
-
-<h2 id="news",style="margin:30px 0px 10px;">News</h2>
+<h2 id="news" style="margin:30px 0px 10px;">News</h2>
 
 <style>
   #scrollableDiv {

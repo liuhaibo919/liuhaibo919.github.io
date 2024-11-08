@@ -1,0 +1,34 @@
+main:
+  - title: "Bio"
+    url: ./about-me
+    left: True
+    
+  - title: "Reseach"
+    url: ./reseach
+  
+  - title: "News"
+    url: ./news
+
+  - title: "Publications"
+    url: ./publications
+
+  - title: "Contact"
+    url: ./contact 
+
+
+
+
+
+  
+
+
+  #- title: "Talks"
+  #  url: ./#invited-talks
+
+  #- title: "Teaching"
+  #  url: ./#teaching
+
+  
+
+  
+  

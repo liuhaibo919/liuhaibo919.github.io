@@ -3,8 +3,8 @@ main:
     url: ./about-me
     left: True
     
-  - title: "Reseach"
-    url: ./reseach
+  - title: "Research"
+    url: ./research
   
   - title: "News"
     url: ./news

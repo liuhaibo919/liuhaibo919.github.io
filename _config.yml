@@ -31,10 +31,10 @@ favicon_dark: ./assets/img/profile_pic.webp
 # footnote_link: https://github.com/yaoyao-liu/minimal-light
 
 # The following files will be removed from the generated website.
-exclude:
-  - build.sh
-  - Gemfile
-  - Gemfile.lock
-  - README.md
-  - LICENSE
-  - CNAME
+# exclude:
+#   - build.sh
+#   - Gemfile
+#   - Gemfile.lock
+#   - README.md
+#   - LICENSE
+#   - CNAME

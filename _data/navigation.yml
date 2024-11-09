@@ -1,6 +1,6 @@
 main:
   - title: "Bio"
-    url: ./#about-me
+    url: ./
     left: True
     
   - title: "Research"

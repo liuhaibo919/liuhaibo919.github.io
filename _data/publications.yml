@@ -1,24 +1,24 @@
 main:
   - title: "From Non-IID to IID: Mobility-aware Hierarchical Federated Learning with Client-Edge Association Control"
-    authors: <strong>Haibo Liu/strong>, Zhenzhe Zheng, Fan Wu, Guihai Chen
-    pub_short: <strong>Preprint</strong>
+    authors: <strong> Haibo Liu</strong>, Zhenzhe Zheng, Fan Wu, Guihai Chen
+    pub_short: <strong> Preprint </strong>
     pub_detail: Under Review
 
   - title: "Enabling Real-Time Inference in Online Continual Learning via Device-Cloud Collaboration"
-    authors: <strong>Haibo Liu/strong>, Chen Gong, Zhenzhe Zheng, Shengzhong Liu, Fan Wu
+    authors: <strong>Haibo Liu</strong>, Chen Gong, Zhenzhe Zheng, Shengzhong Liu, Fan Wu
     pub_short: <strong>Preprint</strong>
     pub_detail: Under Review
 
   - title: "Latency-aware Online Continual Learning for Non-Stationary Data Streams"
-    authors: <strong>Haibo Liu/strong>, Da Huo, Zhenzhe Zheng, Fan Wu
-    pub_short: <strong>Preprint</strong>
+    authors: <strong> Haibo Liu </strong>, Da Huo, Zhenzhe Zheng, Fan Wu
+    pub_short: <strong> Preprint </strong>
     pub_detail: Under Review
 
 
   - title: "FedUP: Bridging Fairness and Efficiency in Cross-Silo Federated Learning"
-    authors: <strong>Haibo Liu</strong>, Jianfeng Lu, Xiong Wang, Chen Wang, Riheng Jia, Minglu Li
-    pub_short: <strong>TSC'24</strong>
-    pub_detail: IEEE Transactions on Services Computing (<strong>CCF-A</strong>)
+    authors: <strong> Haibo Liu </strong>, Jianfeng Lu, Xiong Wang, Chen Wang, Riheng Jia, Minglu Li
+    pub_short: <strong> TSC'2 4</strong>
+    pub_detail: IEEE Transactions on Services Computing (<strong> CCF-A </strong>)
 
 
   - title: "Incentivizing proportional fairness for multi-task allocation in crowdsensing"

@@ -11,7 +11,7 @@
     
     <div class="col-sm-12" style="position: relative;padding-right: 15px;padding-left: 20px;">
         <div class="title">
-      <abbr class="badge">{{ link.pub_short }}</abbr>
+      <abbr class="badge  badge-pill badge-warning">{{ link.pub_short }}</abbr>
         <a href="{{ link.pdf }}">{{ link.title }}</a>
         </div>
         <div class="author">{{ link.authors }}</div>
@@ -20,11 +20,5 @@
     </div>
   </div>
 </li>
-
-<br>
-
-{% endfor %}
-</ol>
-</div>
 
 

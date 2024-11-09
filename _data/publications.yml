@@ -2,23 +2,23 @@ main:
   - title: "Bi-Factorial Preference Optimization: Balancing Safety-Helpfulness in Language Models"
     authors: <strong>Wenxuan Zhang</strong>, Philip Torr, Mohamed Elhoseiny, Adel Bibi
     # conference: CVPR.
-    pub_short: CVPR'24
-    pub_detail: 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CCF-A)
+    pub_short: <strong>CVPR'24</strong>
+    pub_detail: 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CCF-A</strong>)
 
   - title: "Overcoming Generic Knowledge Loss with Selective Parameter Update"
     authors: <strong>Wenxuan Zhang</strong>, Paul Janson, Rahaf Aljundi, Mohamed Elhoseiny
     # conference: CVPR.
-    pub_short: CVPR'24
+    pub_short:<strong>CVPR'24</strong>
     pub_detail: 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CCF-A)
 
   - title: "Label Delay in Continual Learning"
     authors: Botos Csaba*, <strong>Wenxuan Zhang*</strong>, Matthias Müller, Ser-Nam Lim, Mohamed Elhoseiny, Philip Torr, Adel Bibi
-    pub_short: Preprint
+    pub_short: <strong>Preprint</strong>
     pub_detail: Under Review
 
   - title: "Continual Learning on a Diet: Learning from Sparsely Labeled Streams Under Constrained Computation"
     authors: <strong>Wenxuan Zhang</strong>, Youssef Mohamed, Bernard Ghanem, Philip Torr, Adel Bibi, Mohamed Elhoseiny
-    pub_short: CVPR'24
+    pub_short: <strong>CVPR'24</strong>
     pub_detail: 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CCF-A)
 
 

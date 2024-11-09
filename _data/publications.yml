@@ -1,26 +1,43 @@
 main:
-  - title: "Bi-Factorial Preference Optimization: Balancing Safety-Helpfulness in Language Models"
-    authors: <strong>Wenxuan Zhang</strong>, Philip Torr, Mohamed Elhoseiny, Adel Bibi
+  - title: "From Non-IID to IID: Mobility-aware Hierarchical Federated Learning with Client-Edge Association Control"
+    authors: <strong>Haibo Liu/strong>, Zhenzhe Zheng, Fan Wu, Guihai Chen
     # conference: CVPR.
-    pub_short: <strong>CVPR'24</strong>
-    pub_detail: 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CCF-A)
-
-  - title: "Overcoming Generic Knowledge Loss with Selective Parameter Update"
-    authors: <strong>Wenxuan Zhang</strong>, Paul Janson, Rahaf Aljundi, Mohamed Elhoseiny
-    # conference: CVPR.
-    pub_short: <strong>CVPR'24</strong>
-    pub_detail: 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CCF-A)
-
-  - title: "Label Delay in Continual Learning"
-    authors: Botos Csaba*, <strong>Wenxuan Zhang*</strong>, Matthias Müller, Ser-Nam Lim, Mohamed Elhoseiny, Philip Torr, Adel Bibi
     pub_short: <strong>Preprint</strong>
     pub_detail: Under Review
 
-  - title: "Continual Learning on a Diet: Learning from Sparsely Labeled Streams Under Constrained Computation"
-    authors: <strong>Wenxuan Zhang</strong>, Youssef Mohamed, Bernard Ghanem, Philip Torr, Adel Bibi, Mohamed Elhoseiny
-    pub_short: <strong>CVPR'24</strong>
-    pub_detail: 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CCF-A)
+  - title: "Enabling Real-Time Inference in Online Continual Learning via Device-Cloud Collaboration"
+    authors: <strong>Haibo Liu/strong>, Chen Gong, Zhenzhe Zheng, Shengzhong Liu, Fan Wu
+    # conference: CVPR.
+    pub_short: <strong>Preprint</strong>
+    pub_detail: Under Review
 
+  - title: "Latency-aware Online Continual Learning for Non-Stationary Data Streams"
+    authors: <strong>Haibo Liu/strong>, Da Huo, Zhenzhe Zheng, Fan Wu
+    # conference: CVPR.
+    pub_short: <strong>Preprint</strong>
+    pub_detail: Under Review
+
+
+  - title: "FedUP: Bridging Fairness and Efficiency in Cross-Silo Federated Learning"
+    authors: <strong>Haibo Liu</strong>, Jianfeng Lu, Xiong Wang, Chen Wang, Riheng Jia, Minglu Li
+    pub_short: <strong>TSC'24</strong>
+    pub_detail: IEEE Transactions on Services Computing (<strong>CCF-A</strong>)
+
+
+  - title: "Incentivizing proportional fairness for multi-task allocation in crowdsensing"
+    authors: Jianfeng Lu, <strong>Haibo Liu</strong>, Riheng Jia, Zhao Zhang, Xiong Wang, Jiangtao Wang
+    pub_short: <strong>TSC'23</strong>
+    pub_detail: IEEE Transactions on Services Computing (<strong>CCF-A</strong>)
+
+    - title: "Towards Personalized Federated Learning Via Group Collaboration in IIoT"
+    authors: Jianfeng Lu, <strong>Haibo Liu</strong>, Riheng Jia, Jiangtao Wang, Lichao Sun, Shaohua Wan
+    pub_short: <strong>TII'22</strong>
+    pub_detail: IEEE Transactions on Industrial Informatics (<strong>CAA-A, IF=11.7, JCR Q1, 中科院1区</strong>)
+
+    - title: "Toward fairness-aware time-sensitive asynchronous federated learning for critical energy infrastructure"
+    authors: Jianfeng Lu, <strong>Haibo Liu</strong>, Zhao Zhang, Jiangtao Wang, Sotirios K Goudos, Shaohua Wan
+    pub_short: <strong>TII'21</strong>
+    pub_detail: IEEE Transactions on Industrial Informatics (<strong>CAA-A, IF=11.7, JCR Q1, 中科院1区</strong>)
 
   # - title: "Continual Zero-Shot Learning through Semantically Guided Generative Random Walks"
   #   authors: <strong>Wenxuan Zhang</strong>, Paul Janson, Kai Yi, Ivan Skorokhodov, Mohamed Elhoseiny

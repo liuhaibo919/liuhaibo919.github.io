@@ -6,8 +6,6 @@
 
 {% for link in site.data.publications.main %}
 <li>
-  <div class="pub-row">
-    
     <div class="col-sm-12" style="position: relative;padding-right: 15px;padding-left: 20px;">
         <div class="title">
       <abbr class="badge badge-warning">{{ link.pub_short }}</abbr>
@@ -17,9 +15,7 @@
         <div class="periodical"><em>{{ link.pub_detail }}</em>
         </div>
     </div>
-  </div>
 </li>
-<br>
 {% endfor %}
 
 

@@ -14,8 +14,6 @@
   <li>[10/2024] One paper accepted to IEEE TSC'24 !</li>
   <li>[11/2023] One paper accepted to IEEE TSC'23 !</li>
 </ul>
-
-<p></p>
 <script>
   function showScrollbar() {
     var div = document.getElementById('scrollableDiv');

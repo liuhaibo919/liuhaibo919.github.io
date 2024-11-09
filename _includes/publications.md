@@ -2,10 +2,7 @@
 
 
 <div class="publications">
-<ol class="bibliography">
-
 {% for link in site.data.publications.main %}
-<li>
     <div class="col-sm-12" style="position: relative;padding-right: 15px;padding-left: 20px;">
         <div class="title">
       <abbr class="badge">{{ link.pub_short }}</abbr>
@@ -15,7 +12,7 @@
         <div class="periodical"><em>{{ link.pub_detail }}</em>
         </div>
     </div>
-</li>
 {% endfor %}
+</div>
 
 

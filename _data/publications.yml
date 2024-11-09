@@ -3,12 +3,12 @@ main:
     authors: <strong>Wenxuan Zhang</strong>, Philip Torr, Mohamed Elhoseiny, Adel Bibi
     # conference: CVPR.
     pub_short: <strong>CVPR'24</strong>
-    pub_detail: 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CCF-A</strong>)
+    pub_detail: 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CCF-A)
 
   - title: "Overcoming Generic Knowledge Loss with Selective Parameter Update"
     authors: <strong>Wenxuan Zhang</strong>, Paul Janson, Rahaf Aljundi, Mohamed Elhoseiny
     # conference: CVPR.
-    pub_short:<strong>CVPR'24</strong>
+    pub_short: <strong>CVPR'24</strong>
     pub_detail: 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CCF-A)
 
   - title: "Label Delay in Continual Learning"

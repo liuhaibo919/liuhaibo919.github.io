@@ -26,13 +26,13 @@ main:
     pub_short: <strong>TSC'23</strong>
     pub_detail: IEEE Transactions on Services Computing (<strong>CCF-A</strong>)
 
-    - title: "Towards Personalized Federated Learning Via Group Collaboration in IIoT"
+  - title: "Towards Personalized Federated Learning Via Group Collaboration in IIoT"
     authors: Jianfeng Lu, <strong>Haibo Liu</strong>, Riheng Jia, Jiangtao Wang, Lichao Sun, Shaohua Wan
     pub_short: <strong>TII'22</strong>
-    pub_detail: IEEE Transactions on Industrial Informatics (<strong>CAA-A, IF=11.7, JCR Q1</strong>)
+    pub_detail: IEEE Transactions on Industrial Informatics (<strong>CAA-A,  JCR Q1，中科院1区, IF=11.7</strong>)
 
-    - title: "Toward fairness-aware time-sensitive asynchronous federated learning for critical energy infrastructure"
+  - title: "Toward fairness-aware time-sensitive asynchronous federated learning for critical energy infrastructure"
     authors: Jianfeng Lu, <strong>Haibo Liu</strong>, Zhao Zhang, Jiangtao Wang, Sotirios K Goudos, Shaohua Wan
     pub_short: <strong>TII'21</strong>
-    pub_detail: IEEE Transactions on Industrial Informatics (<strong>CAA-A, IF=11.7, JCR Q1</strong>)
+    pub_detail: IEEE Transactions on Industrial Informatics (<strong>CAA-A, JCR Q1, 中科院1区, IF=11.7</strong>)
 

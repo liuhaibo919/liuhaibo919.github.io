@@ -11,22 +11,11 @@
     
     <div class="col-sm-12" style="position: relative;padding-right: 15px;padding-left: 20px;">
         <div class="title">
-      {% if link.conference_short %} 
-      <abbr class="badge">{{ link.conference_short }}</abbr>
-      {% endif %}
-      {% if link.is_oral %} 
-      <abbr class="badge oral-badge">Oral</abbr>
-      {% endif %}
-      {% if link.is_preprint %} 
-      <abbr class="badge preprint-badge">Preprint</abbr>
-      {% endif %}
-      {% if link.review %} 
-      <abbr class="badge preprint-badge">Under Review</abbr>
-      {% endif %}
+      <abbr class="badge">{{ link.pub_short }}</abbr>
         <a href="{{ link.pdf }}">{{ link.title }}</a>
         </div>
         <div class="author">{{ link.authors }}</div>
-        <div class="periodical"><em>{{ link.conference }}</em>
+        <div class="periodical"><em>{{ link.pub_detail }}</em>
         </div>
     </div>
   </div>

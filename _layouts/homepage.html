@@ -92,14 +92,16 @@
         <br>
         {% endif %}
         
-        {% if site.email %}
-        <email>{{ site.email }}</email>
-        {% endif %}
-        <br>
+
         {% if site.affiliation %}
         <a href="{{ site.affiliation_link }}" rel="noopener"><autocolor>{{ site.affiliation }}</autocolor></a>
         <br>
         {% endif %}
+        <br>
+        {% if site.email %}
+        <email>{{ site.email }}</email>
+        {% endif %}
+        <br>
 
         {% if site.email2 %}
         <br>

@@ -14,30 +14,29 @@ main:
 
   - title: "<strong> Latency-aware Online Continual Learning for Non-Stationary Data Streams</strong>"
     authors: <strong>Haibo Liu/strong>, Da Huo, Zhenzhe Zheng, Fan Wu
-    pub_short: <strong>Preprint</strong>
+    pub_short: <strong>INCOCOM'25</strong>
     authors: <strong> Haibo Liu </strong>, Da Huo, Zhenzhe Zheng, Fan Wu
-    pub_short: <strong> Preprint </strong>
-    pub_detail: Under Review
-
+    pub_short: <strong> INCOCOM'25 </strong>
+    pub_detail: IEEE International Conference on Computer Communications  (<strong>CCF-A, acceptance rate: 18.6% (272/1548)</strong>)
 
   - title: "<strong> FedUP: Bridging Fairness and Efficiency in Cross-Silo Federated Learning</strong>"
     authors: <strong>Haibo Liu</strong>, Jianfeng Lu, Xiong Wang, Chen Wang, Riheng Jia, Minglu Li
     pub_short: <strong>TSC'24</strong>
-    pub_detail: IEEE Transactions on Services Computing (<strong>CCF-A, JCR Q1</strong>)
+    pub_detail: IEEE Transactions on Services Computing (<strong>CCF-A, SCI-1区TOP</strong>)
 
 
 
   - title: "<strong> Incentivizing proportional fairness for multi-task allocation in crowdsensing</strong>"
     authors: Jianfeng Lu, <strong>Haibo Liu</strong>, Riheng Jia, Zhao Zhang, Xiong Wang, Jiangtao Wang
     pub_short: <strong>TSC'23</strong>
-    pub_detail: IEEE Transactions on Services Computing (<strong>CCF-A, JCR Q1</strong>)
+    pub_detail: IEEE Transactions on Services Computing (<strong>CCF-A, SCI-1区TOP</strong>)
 
   - title: "<strong> Towards Personalized Federated Learning Via Group Collaboration in IIoT</strong>"
     authors: Jianfeng Lu, <strong>Haibo Liu</strong>, Riheng Jia, Jiangtao Wang, Lichao Sun, Shaohua Wan
     pub_short: <strong>TII'22</strong>
-    pub_detail: IEEE Transactions on Industrial Informatics (<strong>CAA-A, JCR Q1, 中科院1区, IF=11.7</strong>)
+    pub_detail: IEEE Transactions on Industrial Informatics (<strong>SCI-1区TOP, IF=11.7</strong>)
 
   - title: "<strong> Toward fairness-aware time-sensitive asynchronous federated learning for critical energy infrastructure</strong>"
     authors: Jianfeng Lu, <strong>Haibo Liu</strong>, Zhao Zhang, Jiangtao Wang, Sotirios K Goudos, Shaohua Wan
     pub_short: <strong>TII'21</strong>
-    pub_detail: IEEE Transactions on Industrial Informatics (<strong>CAA-A, JCR Q1, 中科院1区, IF=11.7</strong>)
+    pub_detail: IEEE Transactions on Industrial Informatics (<strong>SCI-1区TOP, IF=11.7</strong>)

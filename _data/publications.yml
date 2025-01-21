@@ -10,14 +10,14 @@ main:
     authors: <strong>Haibo Liu/strong>, Chen Gong, Zhenzhe Zheng, Shengzhong Liu, Fan Wu
     authors: <strong>Haibo Liu</strong>, Chen Gong, Zhenzhe Zheng, Shengzhong Liu, Fan Wu
     pub_short: <strong>WWW'25</strong>
-    pub_detail: ACM International World Wide Web Conference (<strong> CCF-A, acceptance rate:19.8\%(409/2062)</strong>)
+    pub_detail: ACM International World Wide Web Conference (<strong> CCF-A, acceptance rate:19.8%(409/2062)</strong>)
 
   - title: "<strong> Latency-aware Online Continual Learning for Non-Stationary Data Streams</strong>"
     authors: <strong>Haibo Liu/strong>, Da Huo, Zhenzhe Zheng, Fan Wu
     pub_short: <strong>INCOCOM'25</strong>
     authors: <strong> Haibo Liu </strong>, Da Huo, Zhenzhe Zheng, Fan Wu
     pub_short: <strong> INCOCOM'25 </strong>
-    pub_detail: IEEE International Conference on Computer Communications (<strong> CCF-A, acceptance rate:18.6\% (272/1548)</strong>)
+    pub_detail: IEEE International Conference on Computer Communications (<strong> CCF-A, acceptance rate:18.6% (272/1548)</strong>)
 
   - title: "<strong> FedUP: Bridging Fairness and Efficiency in Cross-Silo Federated Learning</strong>"
     authors: <strong>Haibo Liu</strong>, Jianfeng Lu, Xiong Wang, Chen Wang, Riheng Jia, Minglu Li

@@ -11,6 +11,7 @@
 </style>
 
 <ul id="scrollableDiv" onmouseover="showScrollbar()" onmouseout="hideScrollbar()">
+  <li>[01/2025] Congratulations! One paper accepted to ACM WWW'25 !</li>
    <li>[12/2024] Congratulations! One paper accepted to IEEE INFOCOM'25 !</li>
   <li>[10/2024] Congratulations! One paper accepted to IEEE TSC'24 !</li>
   <li>[11/2023] Congratulations! One paper accepted to IEEE TSC'23 !</li>

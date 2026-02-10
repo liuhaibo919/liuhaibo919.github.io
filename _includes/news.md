@@ -20,7 +20,7 @@
 <script>
   function showScrollbar() {
     var div = document.getElementById('scrollableDiv');
-    div.style.height = '50px';
+    div.style.height = div.scrollHeight + 'px';
     div.style.opacity = 1;
   }
   function hideScrollbar() {

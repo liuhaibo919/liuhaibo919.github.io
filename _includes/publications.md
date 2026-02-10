@@ -8,6 +8,7 @@
         <div class="author">{{ link.authors }}</div>
         <div class="periodical"><em>{{ link.pub_detail }}</em></div>
     </div>
+    <br>
 {% endfor %}
 </div>
 

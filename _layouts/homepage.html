@@ -143,6 +143,15 @@
         </div>
         <br>
 
+        <!-- 访问地图 - 添加在个人信息下方 -->
+        {% if site.clustrmaps_id %}
+        <br>
+        <div style="width:200px; margin: 0 auto;">
+          <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=043361&w=200&t=n&d={{ site.clustrmaps_id }}&co=ffffff&cmo=3eb7f0&ct=043361'></script>
+        </div>
+        <br>
+        {% endif %}
+
       </header>
       <section>
 
@@ -170,11 +179,6 @@
       {% endif %}
 
       <br>
-      {% if site.clustrmaps_id %}
-      <div style="width:100px; pointer-events: none;">
-      <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=043361&w=153&t=n&d={{ site.clustrmaps_id }}&co=ffffff&cmo=3eb7f0&ct=043361'></script>
-      </div>
-      {% endif %}
       
       </section>
       <footer>

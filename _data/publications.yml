@@ -1,11 +1,16 @@
 main:
+  - title: "<strong> Well Begun is Half Done: Efficient Initialization for Online Continual Learning via Two-Stage Model Merging</strong>"
+    authors: <strong> <u>Haibo Liu</u></strong>, Chenxin Mao, Zhenzhe Zheng, Fan Wu, Guihai Chen, He Huang
+    pub_short: <strong> Preprint</strong>
+    pub_detail: Under Review
+    
   - title: "<strong> Lethe:Learning Brain-inspired Motivated Forgetting for Resource-efficient on-device Continual Learning</strong>"
-    authors: <strong> <u>Haibo Liu</u></strong>, Chenxin Mao, Zhenzhe Zheng, Fan Wu, Guihai Chen
+    authors: <strong> <u>Haibo Liu</u></strong>, Chenxin Mao, Zhenzhe Zheng, Fan Wu, Guihai Chen, He Huang
     pub_short: <strong> Preprint</strong>
     pub_detail: Under Review
 
   - title: "<strong> ELITE:Device-Cloud Collaborative Online Continual Learning for Real-Time Inference</strong>"
-    authors: <strong> <u>Haibo Liu</u></strong>, Zhenzhe Zheng, Fan Wu, Guihai Chen
+    authors: <strong> <u>Haibo Liu</u></strong>, Chenxin Mao, Zhenzhe Zheng, Fan Wu, Guihai Chen
     pub_short: <strong> Preprint</strong>
     pub_detail: Under Review
     
@@ -25,9 +30,14 @@ main:
     pub_detail: IEEE International Conference on Computer Communications (<strong> CCF-A, acceptance rate=18.6%(272/1548)</strong>)
 
   - title: "<strong> FedUP: Bridging Fairness and Efficiency in Cross-Silo Federated Learning</strong>"
-    authors: <strong><u>Haibo Liu</u></strong>, Jianfeng Lu, Xiong Wang, Chen Wang, Riheng Jia, Minglu Li
-    pub_short: <strong>TSC'24</strong>
-    pub_detail: IEEE Transactions on Services Computing (<strong>CCF-A, SCI-1区TOP</strong>)
+    authors: Chenxin Mao, Chen<strong><u>Haibo Liu</u></strong>, Zhenzhe Zheng#, Fan Wu, Guihai
+    pub_short: <strong>WWW'26</strong>
+    pub_detail: ACM International World Wide Web Conference (<strong> CCF-A, acceptance rate=20.1% (676/3370)</strong>)
+
+  - title: "<strong> Smaller but Better: Plasticity-Preserving On-Device Continual Learning for Embedded AI</strong>"
+    authors: <strong><u>Haibo Liu</u></strong>, Chen Gong, Zhenzhe Zheng, Shengzhong Liu, Fan Wu
+    pub_short: <strong>WWW'25</strong>
+    pub_detail: ACM International World Wide Web Conference (<strong> CCF-A, acceptance rate=19.8% (409/2062)</strong>)
 
 
   - title: "<strong> Incentivizing proportional fairness for multi-task allocation in crowdsensing</strong>"

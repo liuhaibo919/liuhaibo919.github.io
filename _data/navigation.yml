@@ -20,8 +20,8 @@ main:
   
 
 
-  #- title: "Talks"
-  #  url: ./#invited-talks
+  - title: "Rewards"
+    url: ./#rewards
 
   #- title: "Teaching"
   #  url: ./#teaching

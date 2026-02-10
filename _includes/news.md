@@ -25,7 +25,7 @@
   }
   function hideScrollbar() {
     var div = document.getElementById('scrollableDiv');
-    div.style.height = '50px';
+    div.style.height = '30px';
     div.style.opacity = 1;
   }
 </script>

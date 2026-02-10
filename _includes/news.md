@@ -11,11 +11,12 @@
 </style>
 
 <ul id="scrollableDiv" onmouseover="showScrollbar()" onmouseout="hideScrollbar()">
-    <li>[06/2025] One paper accepted to IEEE TMC'25 ! Congratulations!</li>
-  <li>[01/2025] One paper accepted to ACM WWW'25 ! Congratulations!</li>
-   <li>[12/2024] One paper accepted to IEEE INFOCOM'25 ! Congratulations!</li>
-  <li>[10/2024] One paper accepted to IEEE TSC'24 ! Congratulations!</li>
-  <li>[11/2023] One paper accepted to IEEE TSC'23 ! Congratulations!</li>
+   <li>[01/2026] One paper has been accepted to ACM WWW'26 ! Congratulations!</li>
+    <li>[06/2025] One paper has been accepted to IEEE TMC'25 ! Congratulations!</li>
+  <li>[01/2025] One paper has been accepted to ACM WWW'25 ! Congratulations!</li>
+   <li>[12/2024] One paper has been accepted to IEEE INFOCOM'25 ! Congratulations!</li>
+  <li>[10/2024] One paper has been accepted to IEEE TSC'24 ! Congratulations!</li>
+  <li>[11/2023] One paper has been accepted to IEEE TSC'23 ! Congratulations!</li>
 </ul>
 <script>
   function showScrollbar() {

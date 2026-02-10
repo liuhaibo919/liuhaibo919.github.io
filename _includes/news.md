@@ -9,7 +9,6 @@
     transition: height 0.5s ease-in-out, opacity 0.5s ease-in-out;
   }
 </style>
-
 <ul id="scrollableDiv" onmouseover="showScrollbar()" onmouseout="hideScrollbar()">
    <li>[01/2026] One paper has been accepted to ACM WWW'26 ! Congratulations!</li>
     <li>[06/2025] One paper has been accepted to IEEE TMC'25 ! Congratulations!</li>
@@ -21,7 +20,7 @@
 <script>
   function showScrollbar() {
     var div = document.getElementById('scrollableDiv');
-    div.style.height = div.scrollHeight + 'px';
+    div.style.height = '50px';
     div.style.opacity = 1;
   }
   function hideScrollbar() {

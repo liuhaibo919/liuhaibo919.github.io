@@ -11,3 +11,4 @@ I am a third-year Ph.D. candidate at [Shanghai Jiao Tong University (SJTU)](http
 
 {% include_relative _includes/news.md %}
 {% include_relative _includes/publications.md %}
+{% include_relative _includes/Reward.md %}

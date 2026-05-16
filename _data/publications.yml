@@ -17,7 +17,7 @@ main:
   - title: "<strong> From Non-IID to IID: Mobility-aware Hierarchical Federated Learning with Client-Edge Association Control</strong>"
     authors: <strong> <u>Haibo Liu</u></strong>, Zhenzhe Zheng, Fan Wu, Guihai Chen
     pub_short: <strong> TMC'25</strong>
-    pub_detail: IEEE Transactions on Mobile Computing (<strong>CCF-A, SCI-1区TOP</strong>)
+    pub_detail: IEEE Transactions on Mobile Computing (<strong>CCF-A</strong>)
 
   - title: "<strong> Enabling Real-Time Inference in Online Continual Learning via Device-Cloud Collaboration</strong>"
     authors: <strong><u>Haibo Liu</u></strong>, Chen Gong, Zhenzhe Zheng, Shengzhong Liu, Fan Wu
@@ -27,12 +27,12 @@ main:
   - title: "<strong> Latency-aware Online Continual Learning for Non-Stationary Data Streams</strong>"
     authors: <strong><u>Haibo Liu</u></strong>, Da Huo, Zhenzhe Zheng, Fan Wu
     pub_short: <strong>INFOCOM'25</strong>
-    pub_detail: IEEE International Conference on Computer Communications (<strong> CCF-A, acceptance rate=18.6%(272/1548)</strong>)
+    pub_detail: IEEE International Conference on Computer Communications (<strong> CCF-A, Acceptance Rate=18.6%</strong>)
 
   - title: "<strong> FedUP: Bridging Fairness and Efficiency in Cross-Silo Federated Learning</strong>"
     authors: <strong><u>Haibo Liu</u></strong>,  Jianfeng Lu, Xiong Wang, Chen Wang, Riheng Jia, Minglu Li
     pub_short: <strong>TSC'24</strong>
-    pub_detail: IEEE Transactions on Services Computing (<strong>CCF-A, SCI-1区TOP</strong>)
+    pub_detail: IEEE Transactions on Services Computing (<strong>CCF-A</strong>)
 
   - title: "<strong> Smaller but Better: Plasticity-Preserving On-Device Continual Learning for Embedded AI</strong>"
     authors: Chenxin Mao, <strong><u>Haibo Liu</u></strong>, Zhenzhe Zheng, Fan Wu, Guihai Chen
@@ -43,7 +43,7 @@ main:
   - title: "<strong> Incentivizing proportional fairness for multi-task allocation in crowdsensing</strong>"
     authors: Jianfeng Lu, <strong><u>Haibo Liu</u></strong>, Riheng Jia, Zhao Zhang, Xiong Wang, Jiangtao Wang
     pub_short: <strong>TSC'23</strong>
-    pub_detail: IEEE Transactions on Services Computing (<strong>CCF-A, SCI-1区TOP</strong>)
+    pub_detail: IEEE Transactions on Services Computing (<strong>CCF-A</strong>)
 
   - title: "<strong> Towards Personalized Federated Learning Via Group Collaboration in IIoT</strong>"
     authors: Jianfeng Lu, <strong><u>Haibo Liu</u></strong>, Riheng Jia, Jiangtao Wang, Lichao Sun, Shaohua Wan

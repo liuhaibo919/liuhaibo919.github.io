@@ -10,6 +10,7 @@
   }
 </style>
 <ul id="scrollableDiv" onmouseover="showScrollbar()" onmouseout="hideScrollbar()">
+    <li>[05/2026] One paper has been accepted to ACM KDD'26 ! Congratulations!</li>
    <li>[01/2026] One paper has been accepted to ACM WWW'26 ! Congratulations!</li>
     <li>[06/2025] One paper has been accepted to IEEE TMC'25 ! Congratulations!</li>
   <li>[01/2025] One paper has been accepted to ACM WWW'25 ! Congratulations!</li>

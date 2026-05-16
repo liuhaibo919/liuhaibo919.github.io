@@ -3,16 +3,16 @@ main:
     authors: <strong> <u>Haibo Liu</u></strong>, Chen Gong, Zhenzhe Zheng, Fan Wu, Guihai Chen, He Huang
     pub_short: <strong> Preprint</strong>
     pub_detail: Under Review
-    
-  - title: "<strong> Lethe:Plasticity-aware Active Forgetting for Resource-Efficient On-Device Continual Learning</strong>"
-    authors: <strong> <u>Haibo Liu</u></strong>, Chenxin Mao, Zhenzhe Zheng, Fan Wu, Guihai Chen, He Huang
-    pub_short: <strong> Preprint</strong>
-    pub_detail: Under Review
 
-  - title: "<strong> ELITE:Device-Cloud Collaborative Online Continual Learning for Real-Time Inference</strong>"
+  - title: "<strong> ELITE:Device-Cloud Collaborative Continual Learning for Real-Time Inference at the Edge</strong>"
     authors: <strong> <u>Haibo Liu</u></strong>, Chenxin Mao, Zhenzhe Zheng, Fan Wu, Guihai Chen
     pub_short: <strong> Preprint</strong>
     pub_detail: Under Review
+
+  - title: "<strong> Lethe:Plasticity-aware Active Forgetting for Resource-Efficient On-Device Continual Learning</strong>"
+    authors: <strong> <u>Haibo Liu</u></strong>, Chenxin Mao, Zhenzhe Zheng, Fan Wu, Guihai Chen, He Huang
+    pub_short: <strong> KDD'26</strong>
+    pub_detail: ACM Knowledge Discovery and Data Mining (<strong> CCF-A, Acceptance Rate=18.5%</strong>)
     
   - title: "<strong> From Non-IID to IID: Mobility-aware Hierarchical Federated Learning with Client-Edge Association Control</strong>"
     authors: <strong> <u>Haibo Liu</u></strong>, Zhenzhe Zheng, Fan Wu, Guihai Chen
@@ -22,7 +22,7 @@ main:
   - title: "<strong> Enabling Real-Time Inference in Online Continual Learning via Device-Cloud Collaboration</strong>"
     authors: <strong><u>Haibo Liu</u></strong>, Chen Gong, Zhenzhe Zheng, Shengzhong Liu, Fan Wu
     pub_short: <strong>WWW'25</strong>
-    pub_detail: ACM International World Wide Web Conference (<strong> CCF-A, acceptance rate=19.8% (409/2062)</strong>)
+    pub_detail: ACM International World Wide Web Conference (<strong> CCF-A, Acceptance Rate=19.8%</strong>)
 
   - title: "<strong> Latency-aware Online Continual Learning for Non-Stationary Data Streams</strong>"
     authors: <strong><u>Haibo Liu</u></strong>, Da Huo, Zhenzhe Zheng, Fan Wu
@@ -37,7 +37,7 @@ main:
   - title: "<strong> Smaller but Better: Plasticity-Preserving On-Device Continual Learning for Embedded AI</strong>"
     authors: Chenxin Mao, <strong><u>Haibo Liu</u></strong>, Zhenzhe Zheng, Fan Wu, Guihai Chen
     pub_short: <strong>WWW'26</strong>
-    pub_detail: ACM International World Wide Web Conference (<strong> CCF-A, acceptance rate=20.1% (672/3370)</strong>)
+    pub_detail: ACM International World Wide Web Conference (<strong> CCF-A, Acceptance Rate=20.1%</strong>)
 
 
   - title: "<strong> Incentivizing proportional fairness for multi-task allocation in crowdsensing</strong>"

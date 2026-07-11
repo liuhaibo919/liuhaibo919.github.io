@@ -6,52 +6,52 @@ main:
     
   - title: "<strong> Well Begun is Half Done: Efficient Initialization for Online Continual Learning via Two-Stage Model Merging</strong>"
     authors: <strong> <u>Haibo Liu</u></strong>, Chen Gong, Zhenzhe Zheng, Fan Wu, Guihai Chen, He Huang
-    pub_short: <strong> Preprint</strong>
-    pub_detail: Under Review
+    pub_short: <strong> ACM MM'26</strong>
+    pub_detail: ACM International Conference on Multimedia (<strong> CCF-A</strong>)
 
 
   - title: "<strong> Lethe:Plasticity-aware Active Forgetting for Resource-Efficient On-Device Continual Learning</strong>"
     authors: <strong> <u>Haibo Liu</u></strong>, Chenxin Mao, Zhenzhe Zheng, Fan Wu, Guihai Chen, He Huang
-    pub_short: <strong> KDD'26</strong>
+    pub_short: <strong> ACM KDD'26</strong>
     pub_detail: ACM SIGKDD Conference on Knowledge Discovery and Data Mining (<strong> CCF-A, Acceptance Rate=18.5%</strong>)
     
   - title: "<strong> From Non-IID to IID: Mobility-aware Hierarchical Federated Learning with Client-Edge Association Control</strong>"
     authors: <strong> <u>Haibo Liu</u></strong>, Zhenzhe Zheng, Fan Wu, Guihai Chen
-    pub_short: <strong> TMC'25</strong>
+    pub_short: <strong> IEEE TMC'25</strong>
     pub_detail: IEEE Transactions on Mobile Computing (<strong>CCF-A</strong>)
 
   - title: "<strong> Enabling Real-Time Inference in Online Continual Learning via Device-Cloud Collaboration</strong>"
     authors: <strong><u>Haibo Liu</u></strong>, Chen Gong, Zhenzhe Zheng, Shengzhong Liu, Fan Wu
-    pub_short: <strong>WWW'25</strong>
+    pub_short: <strong>ACM WWW'25</strong>
     pub_detail: ACM International World Wide Web Conference (<strong> CCF-A, Acceptance Rate=19.8%</strong>)
 
   - title: "<strong> Latency-aware Online Continual Learning for Non-Stationary Data Streams</strong>"
     authors: <strong><u>Haibo Liu</u></strong>, Da Huo, Zhenzhe Zheng, Fan Wu
-    pub_short: <strong>INFOCOM'25</strong>
+    pub_short: <strong>IEEE INFOCOM'25</strong>
     pub_detail: IEEE International Conference on Computer Communications (<strong> CCF-A, Acceptance Rate=18.6%</strong>)
 
   - title: "<strong> FedUP: Bridging Fairness and Efficiency in Cross-Silo Federated Learning</strong>"
     authors: <strong><u>Haibo Liu</u></strong>,  Jianfeng Lu, Xiong Wang, Chen Wang, Riheng Jia, Minglu Li
-    pub_short: <strong>TSC'24</strong>
+    pub_short: <strong>IEEE TSC'24</strong>
     pub_detail: IEEE Transactions on Services Computing (<strong>CCF-A</strong>)
 
   - title: "<strong> Smaller but Better: Plasticity-Preserving On-Device Continual Learning for Embedded AI</strong>"
     authors: Chenxin Mao, <strong><u>Haibo Liu</u></strong>, Zhenzhe Zheng, Fan Wu, Guihai Chen
-    pub_short: <strong>WWW'26</strong>
+    pub_short: <strong>ACM WWW'26</strong>
     pub_detail: ACM International World Wide Web Conference (<strong> CCF-A, Acceptance Rate=20.1%</strong>)
 
 
   - title: "<strong> Incentivizing proportional fairness for multi-task allocation in crowdsensing</strong>"
     authors: Jianfeng Lu, <strong><u>Haibo Liu</u></strong>, Riheng Jia, Zhao Zhang, Xiong Wang, Jiangtao Wang
-    pub_short: <strong>TSC'23</strong>
+    pub_short: <strong>IEEE TSC'23</strong>
     pub_detail: IEEE Transactions on Services Computing (<strong>CCF-A</strong>)
 
   - title: "<strong> Towards Personalized Federated Learning Via Group Collaboration in IIoT</strong>"
     authors: Jianfeng Lu, <strong><u>Haibo Liu</u></strong>, Riheng Jia, Jiangtao Wang, Lichao Sun, Shaohua Wan
-    pub_short: <strong>TII'22</strong>
+    pub_short: <strong>IEEE TII'22</strong>
     pub_detail: IEEE Transactions on Industrial Informatics (<strong>CAA-A, SCI-1区TOP</strong>)
 
   - title: "<strong> Toward fairness-aware time-sensitive asynchronous federated learning for critical energy infrastructure</strong>"
     authors: Jianfeng Lu, <strong><u>Haibo Liu</u></strong>, Zhao Zhang, Jiangtao Wang, Sotirios K Goudos, Shaohua Wan
-    pub_short: <strong>TII'21</strong>
+    pub_short: <strong>IEEE TII'21</strong>
     pub_detail: IEEE Transactions on Industrial Informatics (<strong>CAA-A, SCI-1区TOP</strong>)

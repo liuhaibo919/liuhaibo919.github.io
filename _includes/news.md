@@ -3,8 +3,8 @@
 <style>
   #scrollableDiv {
     /* 将基础高度调整为 105px 左右，正好可以容纳 4 条新闻 */
-    min-height: 105px;
-    height: 105px;
+    min-height: 100px;
+    height: 100px;
     overflow-y: hidden;
     opacity: 1;
     transition: height 0.5s ease-in-out, opacity 0.5s ease-in-out;
@@ -35,7 +35,7 @@
   function hideScrollbar() {
     var div = document.getElementById('scrollableDiv');
     // 鼠标移出时恢复为显示 4 条新闻的高度 (105px)
-    div.style.height = '105px';
+    div.style.height = '100px';
     div.style.opacity = 1;
   }
 </script>

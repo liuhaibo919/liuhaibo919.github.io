@@ -1,4 +1,9 @@
 main:
+  - title: "<strong> Learning for Serving: Enabling Proactive Continual Learning for LLM Inference at the Edge</strong>"
+    authors: <strong> <u>Haibo Liu</u></strong>, Zhenzhe Zheng, He Huang, Fan Wu
+    pub_short: <strong> Preprint</strong>
+    pub_detail: Under Review
+  
   - title: "<strong> ELITE:Device-Cloud Collaborative Continual Learning for Real-Time Inference at the Edge</strong>"
     authors: <strong> <u>Haibo Liu</u></strong>, Chenxin Mao, Zhenzhe Zheng, Fan Wu, Guihai Chen
     pub_short: <strong> Preprint</strong>
